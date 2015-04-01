@@ -40,7 +40,7 @@ MY_GROUP_NAME = prompt("Please, enter name of your LinkedIn group.")
 
 // Read about the Linked In API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/8086/versions/8276/contracts
 
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8086/versions/8276/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 
 ```
 
